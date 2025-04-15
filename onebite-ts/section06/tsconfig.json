@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "moduleDetection": "force",
+    "allowJs": true
+    // "noImplicitAny": false 암시적 any를 허용한다.
+  },
+  "include": ["src"]
+}
